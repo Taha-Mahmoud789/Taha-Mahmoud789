@@ -1,17 +1,39 @@
 # Taha Mahmoud
 
-Frontend developer building responsive web interfaces with React, Next.js, and TypeScript.
+**Frontend developer · React, Next.js & TypeScript**
 
-[Portfolio](https://taha-dev-eight.vercel.app/)
+I build responsive web interfaces with a focus on typography, interaction, and motion. My work includes a personal portfolio, a bilingual company site, and experiments with reusable layouts.
 
-### Contribution Snake
+[Visit my portfolio ↗](https://taha-dev-eight.vercel.app/)
 
-![A purple snake moving across my GitHub contribution grid](./contribution-snake.gif)
+<img src="./profile-cover.svg" width="880" height="200" alt="TM monogram on a navy background with violet and cyan curves">
 
-### Selected work
+## Featured projects
 
-- **[taha.dev](https://taha-dev-eight.vercel.app/)** · Personal portfolio · [Source](https://github.com/Taha-Mahmoud789/taha.dev)
-- **[Atheer Digital](https://atheer-digital.vercel.app/)** · Bilingual landing page with an interactive 3D hero
-- **[ThinkMode](https://thinkmode-ten.vercel.app/)** · MDX-powered web project · [Source](https://github.com/Taha-Mahmoud789/thinkmode)
+### Atheer Digital
 
-<sub>Contribution animation inspired by Originkit’s Snake Grid.</sub>
+A bilingual company site with Arabic and English layouts, an interactive 3D hero, and a service explorer. Built with Next.js and React.
+
+[View live site ↗](https://atheer-digital.vercel.app/)
+
+### taha.dev
+
+My personal portfolio and a place to explore frontend design and interactions.
+
+[View portfolio ↗](https://taha-dev-eight.vercel.app/) · [Browse the code](https://github.com/Taha-Mahmoud789/taha.dev)
+
+### Portfolio Template
+
+A separate portfolio starter in TypeScript, with a live preview and public source.
+
+[View demo ↗](https://portfolio-template-nu-teal.vercel.app/) · [Browse the code](https://github.com/Taha-Mahmoud789/portfolio-template)
+
+## Toolkit
+
+**Interfaces** · React, Next.js, HTML, CSS  
+**Languages** · TypeScript, JavaScript  
+**Delivery** · Git, GitHub, Vercel
+
+## GitHub activity
+
+![A violet snake crossing a snapshot of my public GitHub contribution calendar](./contribution-snake.gif)
