@@ -1,4 +1,4 @@
-![Taha Mahmoud — frontend developer working with JavaScript, TypeScript, React and Next.js](./terminal.svg)
+![Taha Mahmoud — frontend developer working with JavaScript, TypeScript, React and Next.js](./profile-terminal.svg)
 
 ### Selected work
 
