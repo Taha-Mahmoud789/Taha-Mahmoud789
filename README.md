@@ -1,11 +1,7 @@
-# Taha Mahmoud
+![Taha Mahmoud — frontend developer working with JavaScript, TypeScript, React and Next.js](./terminal.svg)
 
-![Terminal-style profile with an ASCII portrait of Taha Mahmoud. Frontend development with JavaScript, TypeScript, React and Next.js.](./terminal.svg)
+### Selected work
 
-## Selected projects
-
-| Project | What it is | Links |
-| --- | --- | --- |
-| **taha.dev** | My personal portfolio | [Live site](https://taha-dev-eight.vercel.app/) · [Source](https://github.com/Taha-Mahmoud789/taha.dev) |
-| **Atheer Digital** | Bilingual company landing page with an interactive 3D hero | [Live site](https://atheer-digital.vercel.app/) |
-| **ThinkMode** | A web project with MDX content | [Live site](https://thinkmode-ten.vercel.app/) · [Source](https://github.com/Taha-Mahmoud789/thinkmode) |
+- **[taha.dev](https://taha-dev-eight.vercel.app/)** — Personal portfolio · [Source](https://github.com/Taha-Mahmoud789/taha.dev)
+- **[Atheer Digital](https://atheer-digital.vercel.app/)** — Bilingual company site with an interactive 3D hero
+- **[ThinkMode](https://thinkmode-ten.vercel.app/)** — MDX-powered web project · [Source](https://github.com/Taha-Mahmoud789/thinkmode)
