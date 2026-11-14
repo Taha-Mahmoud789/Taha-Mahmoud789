@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" role="img" aria-label="Abstract violet and blue curves around the initials TM">
+ <defs>
+  <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#101626"/><stop offset="1" stop-color="#211943"/></linearGradient>
+  <linearGradient id="line" x2="1" y2="0"><stop stop-color="#5443ad" stop-opacity="0"/><stop offset=".48" stop-color="#a691ff"/><stop offset="1" stop-color="#70d9f6"/></linearGradient>
+  <clipPath id="frame"><rect width="880" height="200" rx="16"/></clipPath>
+ </defs>
+ <g clip-path="url(#frame)">
+  <rect width="880" height="200" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)">
+   <path d="M270 215C450 201 465 35 650 27S777 151 938 86" opacity=".28"/>
+   <path d="M280 225C471 208 481 47 653 40S784 165 933 100" opacity=".4"/>
+   <path d="M290 236C489 218 499 60 656 53S790 178 930 114" opacity=".58"/>
+   <path d="M300 248C508 226 512 73 659 66S797 190 927 129" opacity=".8"/>
+  </g>
+  <path d="M48 67h76v13H93v54H79V80H48z M136 134V67h13l25 37 24-37h13v67h-14V90l-23 33-24-33v44z" fill="#f0edff"/>
+  <circle cx="655" cy="40" r="3" fill="#d3bcff"/>
+ </g>
+</svg>
