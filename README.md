@@ -1,39 +1,30 @@
-# Taha Mahmoud
+<p align="center">
+  <a href="https://taha-dev-eight.vercel.app/">
+    <img src="./assets/workshop-hero.png" width="1200" alt="Taha Mahmoud — Websites with character. An illustrated creative workshop for Arabic and English web design and development.">
+  </a>
+</p>
 
-**Frontend developer · React, Next.js & TypeScript**
+I design and develop responsive websites for businesses — company sites, landing pages, and interfaces in Arabic and English.
 
-I build responsive web interfaces with a focus on typography, interaction, and motion. My work includes a personal portfolio, a bilingual company site, and experiments with reusable layouts.
+<img src="./assets/selected-work.svg" width="1200" alt="Selected work — A few things I have built.">
 
-[Visit my portfolio ↗](https://taha-dev-eight.vercel.app/)
+<a href="https://overbenefits.net/"><img src="./assets/over-benefits-card.jpg" width="1200" alt="Over Benefits — bilingual company website. View the live project."></a>
 
-<img src="./profile-cover.svg" width="880" height="200" alt="TM monogram on a navy background with violet and cyan curves">
+<a href="https://atheer-digital.vercel.app/"><img src="./assets/atheer-card.jpg" width="49%" alt="Atheer Digital — digital agency website. View the live project."></a> <a href="https://taha-dev-eight.vercel.app/"><img src="./assets/portfolio-card.jpg" width="49%" alt="taha.dev — personal portfolio. View the live project."></a>
 
-## Featured projects
+[Over Benefits](https://overbenefits.net/) · [Atheer Digital](https://atheer-digital.vercel.app/) · [taha.dev](https://taha-dev-eight.vercel.app/)
 
-### Atheer Digital
+<a href="mailto:taha.mahmoud.abdellah@gmail.com"><img src="./assets/contact.svg" width="1200" alt="Have a website in mind? Let's build it together. Email Taha to start a conversation."></a>
 
-A bilingual company site with Arabic and English layouts, an interactive 3D hero, and a service explorer. Built with Next.js and React.
+[Start a conversation](mailto:taha.mahmoud.abdellah@gmail.com) · [Visit my portfolio](https://taha-dev-eight.vercel.app/#contact)
 
-[View live site ↗](https://atheer-digital.vercel.app/)
+<details>
+<summary>Behind the work — toolkit &amp; GitHub activity</summary>
 
-### taha.dev
+- **Interfaces:** React, Next.js, HTML, CSS
+- **Languages:** TypeScript, JavaScript
+- **Delivery:** Git, GitHub, Vercel
 
-My personal portfolio and a place to explore frontend design and interactions.
+![Public GitHub contribution calendar animation](./contribution-snake.gif)
 
-[View portfolio ↗](https://taha-dev-eight.vercel.app/) · [Browse the code](https://github.com/Taha-Mahmoud789/taha.dev)
-
-### Portfolio Template
-
-A separate portfolio starter in TypeScript, with a live preview and public source.
-
-[View demo ↗](https://portfolio-template-nu-teal.vercel.app/) · [Browse the code](https://github.com/Taha-Mahmoud789/portfolio-template)
-
-## Toolkit
-
-**Interfaces** · React, Next.js, HTML, CSS  
-**Languages** · TypeScript, JavaScript  
-**Delivery** · Git, GitHub, Vercel
-
-## GitHub activity
-
-![A violet snake crossing a snapshot of my public GitHub contribution calendar](./contribution-snake.gif)
+</details>
